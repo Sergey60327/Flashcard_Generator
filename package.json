@@ -1,0 +1,19 @@
+{
+  "name": "1.0.0",
+  "version": "1.0.0",
+  "description": "\"Generator\"",
+  "main": "Clozecard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergey60327/Flashcard_Generator.git"
+  },
+  "author": "Sergey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergey60327/Flashcard_Generator/issues"
+  },
+  "homepage": "https://github.com/Sergey60327/Flashcard_Generator#readme"
+}
